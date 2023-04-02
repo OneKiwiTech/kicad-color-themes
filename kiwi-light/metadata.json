@@ -28,7 +28,7 @@
             "kicad_version": "6",
             "download_sha256": "637ea8efe153cc64380c7e8bf78b92d65f80c901c234dc4d0229cf8dc55b94df",
             "download_size": 12915,
-            "download_url": "https://github.com/OneKiwiTech/kicad-color-themes/releases/download/v1.1/Gruvbox_v1.1.zip",
+            "download_url": "https://raw.githubusercontent.com/OneKiwiTech/kicad-color-themes/main/kiwi-light/vn.onekiwi.theme-kiwi-light.zip",
             "install_size": 21285
         }
     ]

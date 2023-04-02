@@ -1,9 +1,9 @@
 {
     "$schema": "https://go.kicad.org/pcm/schemas/v1",
-    "name": "Kiwi Light",
+    "name": "Kiwi Dark",
     "description": "Designed by OneKiwi",
     "description_full": "esigned by OneKiwi",
-    "identifier": "vn.onekiwi.theme-kiwi-light",
+    "identifier": "vn.onekiwi.theme-kiwi-dark",
     "type": "colortheme",
     "author": {
         "name": "OneKiwi",
@@ -25,11 +25,16 @@
         {
             "version": "1.0",
             "status": "stable",
-            "kicad_version": "6",
-            "download_sha256": "637ea8efe153cc64380c7e8bf78b92d65f80c901c234dc4d0229cf8dc55b94df",
-            "download_size": 12915,
-            "download_url": "https://raw.githubusercontent.com/OneKiwiTech/kicad-color-themes/main/kiwi-light/vn.onekiwi.theme-kiwi-light.zip",
-            "install_size": 21285
+            "kicad_version": "7",
+            "download_sha256": "SHA256",
+            "download_size": DOWNLOAD_SIZE,
+            "download_url": "https://raw.githubusercontent.com/OneKiwiTech/kicad-color-themes/main/kiwi-dark/vn.onekiwi.theme-kiwi-dark.zip",
+            "install_size": INSTALL_SIZE,
+            "platforms": [
+                "linux",
+                "macos",
+                "windows"
+            ]
         }
     ]
 }

@@ -18,3 +18,4 @@ sed -i -e "s/DOWNLOAD_SIZE/$size/g" metadata.json
 sed -i -e "s/INSTALL_SIZE/$installSize/g" metadata.json
 
 ls -lh vn.onekiwi.theme-kiwi-light.zip metadata.json
+mv metadata.json metadata-light.json

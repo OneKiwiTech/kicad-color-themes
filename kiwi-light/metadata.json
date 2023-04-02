@@ -1,0 +1,35 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "Kiwi Light",
+    "description": "Designed by OneKiwi",
+    "description_full": "esigned by OneKiwi",
+    "identifier": "vn.onekiwi.theme-kiwi-light",
+    "type": "colortheme",
+    "author": {
+        "name": "OneKiwi",
+        "contact": {
+            "web": "https://github.com/OneKiwiTech"
+        }
+    },
+    "maintainer": {
+        "name": "OneKiwi",
+        "contact": {
+            "web": "https://github.com/OneKiwiTech"
+        }
+    },
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://github.com/OneKiwiTech/kicad-color-themes"
+    },
+    "versions": [
+        {
+            "version": "1.0",
+            "status": "stable",
+            "kicad_version": "6",
+            "download_sha256": "637ea8efe153cc64380c7e8bf78b92d65f80c901c234dc4d0229cf8dc55b94df",
+            "download_size": 12915,
+            "download_url": "https://github.com/OneKiwiTech/kicad-color-themes/releases/download/v1.1/Gruvbox_v1.1.zip",
+            "install_size": 21285
+        }
+    ]
+}
